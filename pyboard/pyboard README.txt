@@ -10,3 +10,5 @@ For a serial prompt:
  - Linux: use the command: screen /dev/ttyACM0
 
 For online docs please visit http://docs.micropython.org/
+
+Pyboards: https://jutland.atlassian.net/wiki/spaces/em/pages/55377939
